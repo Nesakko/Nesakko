@@ -1,4 +1,11 @@
-### Bonjour ! 👋
+## Bonjour ! 👋
+
+#### Moving to codeberg permanently
+https://codeberg.org/Nesakko
+
+This account will only be used to contribute, consult some issue on my repos and mirroring
+
+
 
 <!--
 **Nesakko/Nesakko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
