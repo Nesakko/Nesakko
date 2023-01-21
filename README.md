@@ -1,5 +1,7 @@
 ## Bonjour ! 👋
 
+![bildo](https://user-images.githubusercontent.com/58779236/213863553-a319bf36-ff77-4813-831d-2095607d1529.png)
+
 #### Moving to codeberg permanently
 https://codeberg.org/Nesakko
 
